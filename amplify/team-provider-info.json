@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-opensourcehashnode-staging-101438-authRole",
+      "UnauthRoleArn": "arn:aws:iam::585540631540:role/amplify-opensourcehashnode-staging-101438-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::585540631540:role/amplify-opensourcehashnode-staging-101438-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-opensourcehashnode-staging-101438-deployment",
+      "UnauthRoleName": "amplify-opensourcehashnode-staging-101438-unauthRole",
+      "StackName": "amplify-opensourcehashnode-staging-101438",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:585540631540:stack/amplify-opensourcehashnode-staging-101438/5c34d4b0-3f16-11ed-a6b6-067341e050e3",
+      "AmplifyAppId": "d35vzqbxgj8gjd"
+    },
+    "categories": {
+      "auth": {
+        "opensourcehashnode5ca98674": {}
+      }
+    }
+  }
+}
