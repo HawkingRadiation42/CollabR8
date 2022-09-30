@@ -1,0 +1,9 @@
+type UserPosts @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Title: String
+  Description: String
+  link: AWSURL
+  tags: String
+  UserRequirements: String
+  name: String
+}
